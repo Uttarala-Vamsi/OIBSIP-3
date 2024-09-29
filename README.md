@@ -1,1 +1,1 @@
-# OIBSIP-3
+# OIBSIP-3, Random password generator
